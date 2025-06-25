@@ -44,3 +44,4 @@ frontend/.cache/
 
 # Optional
 coverage/
+config.bat
